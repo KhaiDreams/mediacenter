@@ -351,3 +351,37 @@ footer .fm1_title p{
     margin: 10px;
     font-size: 12px;
 }
+
+footer .footer_text{
+    margin-top: 20px;
+}
+
+footer .footer_text p{
+    color: #888585;
+    font-size: 14px;
+}
+
+footer .footer_num{
+    margin-top: 20px;
+}
+
+footer .numeros1{
+    color: #888585;
+    margin-top:30px ;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+    font-size: 14px;
+    padding: 2px;
+}
+
+footer .numeros2{
+    color: #888585;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+    font-size: 14px;
+    padding: 2px;
+}
